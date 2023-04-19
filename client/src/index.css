@@ -1,0 +1,7 @@
+@import url(./style/reset.css);
+@import url(./style/font.css);
+
+
+.App{
+  margin: auto;
+}  
